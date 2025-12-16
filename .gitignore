@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# macOS
+.DS_Store
+# Nomad
+.nomad/
+# Docker
+.docker/
+# MLFlow
+mlruns/
+.trash/
+output.txt
+
